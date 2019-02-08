@@ -31,11 +31,13 @@
         width: 150px;
         height: 100px;
         border-radius: 10px;
+        border: 2px solid black;
   }
 
   button, input{
     font-size: 200%;
     text-align: center;
+    margin: 5px;
     
   }
 
