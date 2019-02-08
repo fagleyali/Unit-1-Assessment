@@ -23,6 +23,8 @@
         border-radius: 10px;
         background:rgb(146, 143, 143);
         color: white;
+        outline: none;
+        border: none;
 
         
   }
